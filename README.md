@@ -19,3 +19,5 @@ This webscrapper requires a webdriver in addition to a regular internet browser.
 ## Result
 ![image](https://user-images.githubusercontent.com/104108189/199141327-dd21aaab-ad4f-40ba-9362-b1f940901f74.png)
 
+## Python Code
+![image](https://user-images.githubusercontent.com/104108189/199144094-f4296975-1b4c-4b10-8fbe-9a3bcd4fe548.png)
